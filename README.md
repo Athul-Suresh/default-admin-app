@@ -31,8 +31,7 @@ To get started, follow these steps:
 
 ## Screenshots
 <p align="center">
-    ![Screenshot 1](https://ibb.co/ccpLndt)
-	<!-- Add more screenshots if needed -->
+    <img src="https://ibb.co/ccpLndt" alt="intro" width="100%" srcset="https://ibb.co/ccpLndt">
 </p>
 
 ## License
