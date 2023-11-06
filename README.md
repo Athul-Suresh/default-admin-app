@@ -31,9 +31,8 @@ To get started, follow these steps:
 
 ## Screenshots
 <p align="center">
-    ![Screenshot 1](https://raw.githubusercontent.com/Athul-Suresh/default-admin-app/main/images/Screenshot_1.png)
+    ![Screenshot 1](https://ibb.co/ccpLndt)
 	<!-- Add more screenshots if needed -->
-    <img src="https://raw.githubusercontent.com/Athul-Suresh/default-admin-app/main/images/Screenshot_1.png" alt="intro" width="100%" srcset="https://raw.githubusercontent.com/Athul-Suresh/default-admin-app/main/images/Screenshot_1.png">
 </p>
 
 ## License
