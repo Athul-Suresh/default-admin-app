@@ -26,7 +26,7 @@
 
 ## Screenshots
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/6037466/179876455-1fbe6c89-9afc-4002-879b-fe3fc6506e34.png" >
+	![Alt text](images/Screenshot_1.png)
 	<br/><br/>
 </p>
 
