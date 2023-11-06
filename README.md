@@ -31,10 +31,10 @@ To get started, follow these steps:
 
 ## Screenshots
 <p align="center">
-    <img src="https://ibb.co/ccpLndt" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/d03gYy6/Screenshot-1.png">
-    <img src="https://ibb.co/0nxK7ng" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/x2NYk2p/Screenshot-2.png">
-    <img src="https://ibb.co/g4Lyz0K" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/jJPhgCX/Screenshot-3.png">
-    <img src="https://ibb.co/dK9xDKD" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/zfcDZfZ/Screenshot-4.png">
+    <img src="https://i.ibb.co/d03gYy6/Screenshot-1.png" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/d03gYy6/Screenshot-1.png">
+    <img src="https://ibb.co/0nxK7ng/Screenshot-2.png" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/x2NYk2p/Screenshot-2.png">
+    <img src="https://ibb.co/g4Lyz0K/Screenshot-3.png" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/jJPhgCX/Screenshot-3.png">
+    <img src="https://ibb.co/dK9xDKD/Screenshot-4.png" alt="Screenshot-1" width="100%" srcset="https://i.ibb.co/zfcDZfZ/Screenshot-4.png">
 </p>
 
 ## License
